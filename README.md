@@ -59,5 +59,6 @@ LANGCHAIN_API_KEY=your_key
 ## Run the Project
 
 streamlit run app.py
+streamlit run localama.py
 
 Then open the URL shown in the terminal to use the chatbot.
